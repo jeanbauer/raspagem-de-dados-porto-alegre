@@ -1,5 +1,4 @@
 # Raspagem de dados - Prefeitura de Porto Alegre
----
 
 ### Para executar, é necessário:
 
