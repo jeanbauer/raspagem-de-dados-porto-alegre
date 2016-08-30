@@ -17,4 +17,4 @@ Acesse `localhost:8081/orgaos` para executar a raspagem (crawling/scraping).
 Verifique seu terminal para ver o resultado!
 
 ### Passo-a-passo
-<img src="http://i.makeagif.com/media/8-30-2016/OEz9mc.gif" alt="Passo a passo de instalação da aplicação"/>
+<img src="como-rodar.gif" alt="Passo a passo de instalação da aplicação"/>
