@@ -9,6 +9,11 @@
   "keywords": [
     "webscraping"
   ],
+  "dependencies" : {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest"
+  },
   "author": "jeanbauer",
   "license": "MIT"
 }
